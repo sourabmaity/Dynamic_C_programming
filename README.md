@@ -6,7 +6,7 @@ Sorting Algorithms:
 1. Bubble Sort
 2. Selection Sort
 
-Queue:<br>
-  insert( ): Insert a data in queue.
-  delet( ): Delete front value in queue.
-  printQ( ): Print all values inside queue.
+Queue:
+1. insert( ): Insert a data in queue.
+2. delet( ): Delete front value in queue.
+3. printQ( ): Print all values inside queue.
