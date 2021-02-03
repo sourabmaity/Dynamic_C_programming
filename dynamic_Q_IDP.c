@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>   //Liner queue where time complexity is high
 #include<stdlib.h>
 int i=-1,max,temp,*arr;
 void insert()
