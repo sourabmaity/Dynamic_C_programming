@@ -5,8 +5,9 @@ All C programming using dynamic memory allocation.
 Sorting Algorithms:
 1. Bubble Sort
 2. Selection Sort
-3. Quick Sort
-4. Merge Sort
+3. Insertion Sort
+4. Quick Sort
+5. Merge Sort
 
 Queue:
 1. insert( ): Insert a data in queue.
