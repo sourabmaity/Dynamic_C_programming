@@ -19,7 +19,7 @@ Circular Queue:
 2. delet( ): Delete front value in queue.
 3. printQ( ): Print all values inside queue.
 
-Collatz Sequence :
-It start with the given number and ends with 1.
+Collatz Sequence :<br>
+It start with the given number and ends with 1.<br>
 Input : 3
 Output : 3,10,5,16,8,4,2,1
