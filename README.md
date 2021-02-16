@@ -21,5 +21,5 @@ Circular Queue:
 
 Collatz Sequence :<br>
 It start with the given number and ends with 1.<br>
-Input : 3
+Input : 3<br>
 Output : 3,10,5,16,8,4,2,1
