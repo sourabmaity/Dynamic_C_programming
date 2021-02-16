@@ -23,3 +23,6 @@ Collatz Sequence :<br>
 It start with the given number and ends with 1.<br>
 Input : 3<br>
 Output : 3,10,5,16,8,4,2,1
+
+Fibonacci Series :<br> 
+In case of fibonacci series, next number is the sum of previous two numbers for example 0, 1, 1, 2, 3, 5, 8, 13, 21 etc. The first two numbers of fibonacci series are 0 and 1.
