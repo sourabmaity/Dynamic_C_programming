@@ -8,7 +8,7 @@ void quick(int first,int last)
 		int pivot=first,i=first,j=last,temp,k;
 		while(i<j)
 		{
-			for(;*(arr+i)<*(arr+pivot)&&i<=last;i++);
+			for(;*(arr+i)<=*(arr+pivot)&&i<=last;i++);
 			for(;*(arr+j)>*(arr+pivot)&&j>=first;j--);
 			if(i<j)
 			{
